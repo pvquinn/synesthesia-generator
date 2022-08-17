@@ -1,0 +1,1 @@
+This website is a grapheme-color synesthesia demonstration. Type text into the text box, and click the Show Colors button to see the letters in color against various backgrounds!

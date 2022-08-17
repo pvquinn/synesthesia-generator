@@ -1,0 +1,56 @@
+body {
+    /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+    text-align: center;
+    font-size: large;
+    background-color: grey;
+    margin: 5px;
+}
+
+p {
+    font-size: xx-large;
+    padding: 10px;
+    margin: 0px;
+}
+
+button {
+    border: 3px solid black;
+    background-color: whitesmoke;
+
+}
+
+#inputbox {
+    border: 3px solid black;
+    background-color: whitesmoke
+}
+
+#greybgd {
+    background-color: grey;
+    margin-top: 15px;
+    width: fit-content;
+    min-width: 90%;
+}
+
+#greenbgd {
+    background-color: green;
+    width: fit-content;
+    min-width: 90%;
+}
+
+#darkbgd {
+    background-color: rgb(35, 34, 34);
+    width: fit-content;
+    min-width: 90%;
+}
+
+#lightbgd {
+    background-color: whitesmoke;
+    width: fit-content;
+    min-width: 90%;
+}
+
+#pinkbgd {
+    background-color: pink;
+    width: fit-content;
+    min-width: 90%;
+    
+}
